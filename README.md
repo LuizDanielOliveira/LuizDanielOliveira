@@ -20,5 +20,5 @@
 </div><br/>
 
 
-💻 Desenvolvedor com mais de 3 anos de experiência, apaixonado por compartilhar conhecimento somar no mundo da Tecnologia e fazer acontecer aquilo que não era possivel ontem! 
+💻 Desenvolvedor com mais de 5 anos de experiência, apaixonado por compartilhar conhecimento somar no mundo da Tecnologia e fazer acontecer aquilo que não era possivel ontem! 
 

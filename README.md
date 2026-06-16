@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz_daniiell/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dompanetone)
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizDanielOliveira&show_icons=true&theme=radical)
+
 
 
 ## Tecnologias que eu uso no meu dia
